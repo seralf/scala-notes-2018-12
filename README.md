@@ -12,8 +12,9 @@
 
 	
 ## interactive REPL
-	+ [scastie](https://scastie.scala-lang.org/)
-	+ [scala fiddle](https://scalafiddle.io/)
+
++ [scastie](https://scastie.scala-lang.org/)
++ [scala fiddle](https://scalafiddle.io/)
 
 ## tutorials, courses
 + [twitter scala school](http://twitter.github.io/scala_school/)
@@ -51,5 +52,5 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzY2MzM2NywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTEyNDMxNjM2MDcsLTgxODQ1MTg5MF19
 -->

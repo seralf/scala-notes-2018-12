@@ -59,6 +59,7 @@ by Underscore
 ### commercial books
 
 + [Red Book](https://www.manning.com/books/functional-programming-in-scala)
++ [Scala for the Impatient, 2nd edition](https://horstmann.com/scala/)
 
 
 ## glossary, cheatsheets
@@ -67,6 +68,7 @@ by Underscore
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNz
-c5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4OTBdfQ==
+eyJoaXN0b3J5IjpbODI0NDUxMjgwLC0zNzYyMDAzOTUsLTEwNz
+YzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODExNywtODE4NDUxODkw
+XX0=
 -->

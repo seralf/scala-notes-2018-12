@@ -3,6 +3,7 @@
 
 ---
 
+<h1 id="scala-notes">scala notes</h1>
 <h2 id="scala-site"><a href="https://www.scala-lang.org/">scala site</a></h2>
 <h3 id="examples">examples</h3>
 <ul>

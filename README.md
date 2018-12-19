@@ -41,12 +41,11 @@
 
 + [Scala & Design Patterns (Exploring Language Expressivity)](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 
++ [creative scala](https://www.creativescala.org/creative-scala.epub)
 
-+ [free scala books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#scala)
-	+ [free play! books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#play-scala)
-
-
-
++ [free programming books - scala](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#scala)
++ [free programming books - play!](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#play-scala)
++ [scala with cats](https://books.underscore.io/scala-with-cats/scala-with-cats.epub)
 
 + [Programming in Scala](https://booksites.artima.com/programming_in_scala)
 	by Martin Odersky, Lex Spoon, and Bill Venners
@@ -61,6 +60,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY4NjYzNzYsMTc3OTEzNjQ0LDE5OD
-U2ODExNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTY3NTYyMzAxNywxNzc5MTM2NDQsMTk4NT
+Y4MTE3LC04MTg0NTE4OTBdfQ==
 -->

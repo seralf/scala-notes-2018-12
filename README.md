@@ -67,8 +67,11 @@ by Underscore
 + cheatsheets
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
+## IDE
+
++ http://scala-ide.org/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NDUxMjgwLC0zNzYyMDAzOTUsLTEwNz
-YzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODExNywtODE4NDUxODkw
-XX0=
+eyJoaXN0b3J5IjpbLTE2ODc5MjQ1MjcsLTM3NjIwMDM5NSwtMT
+A3NjM3ODY1MCwxNzc5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4
+OTBdfQ==
 -->

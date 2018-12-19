@@ -5,7 +5,8 @@
 ## [scala site](https://www.scala-lang.org/)
 + *SEE*: example snippets in the homepage 
 + [scala JS](https://www.scala-js.org/)
-+ [Compiling Scala Faster with GraalVM]
++ [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
++ [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
 
 
 ## examples, exercises
@@ -81,8 +82,8 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE5MjMxMDIsLTIwMzk4Mjg0ODAsLT
-Q2MTEyNTM0NSwxMjIyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5
-OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NC
-wxOTg1NjgxMTcsLTgxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbMjE4NzgzMzQsLTIwMzk4Mjg0ODAsLTQ2MT
+EyNTM0NSwxMjIyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5OTU5
+NywtMzc2MjAwMzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NCwxOT
+g1NjgxMTcsLTgxODQ1MTg5MF19
 -->

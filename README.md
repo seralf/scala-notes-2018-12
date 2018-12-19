@@ -29,6 +29,7 @@
 + [scala_tutorial](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
 + [tour of scala]( https://docs.scala-lang.org/tour/tour-of-scala.html)
 + [scala for java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
++ [scala for perl programmers](https://github.com/garu/scala-for-perl5-programmers)
 
 
 
@@ -76,7 +77,7 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjMwMTA3NywxNTQ2MTM1OTk3LDExNT
-A5OTk1OTcsLTM3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNzc5MTM2
-NDQsMTk4NTY4MTE3LC04MTg0NTE4OTBdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1ND
+YxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4
+NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
 -->

@@ -54,6 +54,8 @@ by Underscore
 	- [Programming in Scala, First Edition](https://www.artima.com/pins1ed/) (FREE)
 	2008, by Martin Odersky, Lex Spoon, and Bill Venners
 
++ [functional programming for mortals](https://leanpub.com/fpmortals)
+
 ### commercial books
 
 + [Red Book](https://www.manning.com/books/functional-programming-in-scala)
@@ -65,6 +67,6 @@ by Underscore
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5OD
-U2ODExNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTM3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNz
+c5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4OTBdfQ==
 -->

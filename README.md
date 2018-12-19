@@ -27,10 +27,6 @@
 	- [Programming in Scala, First Edition](https://www.artima.com/pins1ed/) (FREE)
 	2008, by Martin Odersky, Lex Spoon, and Bill Venners
 
-+ [courses](https://docs.scala-lang.org/learn.html)
-	+ [scala_tutorial](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
-	+ [tour of scala]( https://docs.scala-lang.org/tour/tour-of-scala.html)
-	+ [scala for java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 
 
 	+ [glossary](https://docs.scala-lang.org/glossary/index.html)
@@ -39,15 +35,17 @@
 	+ [scastie](https://scastie.scala-lang.org/)
 	+ [scala fiddle](https://scalafiddle.io/)
 
-### tutorials
+### tutorials, courses
 + [twitter scala school](http://twitter.github.io/scala_school/)
 + [effective scala](https://twitter.github.io/effectivescala/)
 + [learning scala in small bytes](http://matt.might.net/articles/learning-scala-in-small-bites/)
  + [creative scala](https://www.creativescala.org/creative-scala.html)
++ [scala online resources](https://docs.scala-lang.org/learn.html)
++ [scala_tutorial](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
++ [tour of scala]( https://docs.scala-lang.org/tour/tour-of-scala.html)
++ [scala for java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 
-+ cheatsheets
-	+ [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
-	
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzI4MzkwNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTExMTAzNTgyNywtODE4NDUxODkwXX0=
 -->

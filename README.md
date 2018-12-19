@@ -39,6 +39,7 @@
 + [creative scala](https://www.creativescala.org/creative-scala.epub)
 + [scala with cats](https://books.underscore.io/scala-with-cats/scala-with-cats.epub)
 
++ [essential scala](https://underscore.io/books/essential-scala/)
 + [Scala by example](https://www.scala-lang.org/docu/files/ScalaByExample.pdf)
 2014, by Martin Odersky
 
@@ -55,6 +56,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTEzNjQ0LDE5ODU2ODExNywtODE4ND
-UxODkwXX0=
+eyJoaXN0b3J5IjpbLTE5Mzg1OTE5MTUsMTc3OTEzNjQ0LDE5OD
+U2ODExNywtODE4NDUxODkwXX0=
 -->

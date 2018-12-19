@@ -8,8 +8,8 @@
 
 ## examples, exercises
 
-+ [creative scala](https://www.creativescala.org/creative-scala.html)
 + [extractors](https://www.scala-lang.org/old/node/112)
++ [creative scala](https://www.creativescala.org/creative-scala.html)
 + [# S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 + [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
 
@@ -61,6 +61,6 @@ by Underscore
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NjA2NjU4LDE3NzkxMzY0NCwxOTg1Nj
+eyJoaXN0b3J5IjpbOTYzOTgyNjQyLDE3NzkxMzY0NCwxOTg1Nj
 gxMTcsLTgxODQ1MTg5MF19
 -->

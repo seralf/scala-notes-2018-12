@@ -55,6 +55,7 @@ by Underscore
 	2008, by Martin Odersky, Lex Spoon, and Bill Venners
 
 + [functional programming for mortals](https://leanpub.com/fpmortals)
++ [atomic scala ]()
 
 ### commercial books
 
@@ -70,8 +71,9 @@ by Underscore
 ## IDE
 
 + http://scala-ide.org/
++ https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc5MjQ1MjcsLTM3NjIwMDM5NSwtMT
+eyJoaXN0b3J5IjpbLTE5Mjc0MzQwODcsLTM3NjIwMDM5NSwtMT
 A3NjM3ODY1MCwxNzc5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4
 OTBdfQ==
 -->

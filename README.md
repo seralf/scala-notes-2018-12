@@ -34,15 +34,19 @@
 
 ## books
 
++ [essential scala](https://underscore.io/books/essential-scala/)
+
++ [Scala by example](https://www.scala-lang.org/docu/files/ScalaByExample.pdf)
+2014, by Martin Odersky
+
++ [Scala & Design Patterns (Exploring Language Expressivity)](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+
+
 + [free scala books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#scala)
 	+ [free play! books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#play-scala)
 
-+ [creative scala](https://www.creativescala.org/creative-scala.epub)
-+ [scala with cats](https://books.underscore.io/scala-with-cats/scala-with-cats.epub)
 
-+ [essential scala](https://underscore.io/books/essential-scala/)
-+ [Scala by example](https://www.scala-lang.org/docu/files/ScalaByExample.pdf)
-2014, by Martin Odersky
+
 
 + [Programming in Scala](https://booksites.artima.com/programming_in_scala)
 	by Martin Odersky, Lex Spoon, and Bill Venners
@@ -57,6 +61,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODYwMDE1LDE3NzkxMzY0NCwxOTg1Nj
-gxMTcsLTgxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbLTIwMTY4NjYzNzYsMTc3OTEzNjQ0LDE5OD
+U2ODExNywtODE4NDUxODkwXX0=
 -->

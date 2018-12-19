@@ -52,7 +52,7 @@ by Underscore
 	by Martin Odersky, Lex Spoon, and Bill Venners
 	- [examples](https://booksites.artima.com/programming_in_scala/examples/)
 	- [Programming in Scala, First Edition](https://www.artima.com/pins1ed/) (FREE)
-	2008, by Martin Odersky, Lex Spoon, and Bill Venners
+		2008, by Martin Odersky, Lex Spoon, and Bill Venners
 
 + [functional programming for mortals](https://leanpub.com/fpmortals)
 
@@ -76,7 +76,7 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNz
-YyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODEx
-NywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbMTIyMjMwMTA3NywxNTQ2MTM1OTk3LDExNT
+A5OTk1OTcsLTM3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNzc5MTM2
+NDQsMTk4NTY4MTE3LC04MTg0NTE4OTBdfQ==
 -->

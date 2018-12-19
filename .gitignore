@@ -6,5 +6,5 @@ target/
 
 #disabled
 examples/
-scala-examples/
+#scala-examples/
 spark-examples/

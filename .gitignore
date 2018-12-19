@@ -9,7 +9,3 @@
 bin/
 target/
 
-#disabled
-examples/
-#scala-examples/
-spark-examples/

@@ -1,0 +1,14 @@
+*.class
+*.log
+.settings/
+.project
+.classpath
+.cache-main
+.worksheet/
+
+bin/
+target/
+
+hadoop_home/
+metastore_db/
+spark-warehouse/

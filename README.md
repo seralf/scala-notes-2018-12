@@ -24,6 +24,7 @@
 + [effective scala](https://twitter.github.io/effectivescala/)
 + [learning scala in small bytes](http://matt.might.net/articles/learning-scala-in-small-bites/)
  + [creative scala](https://www.creativescala.org/creative-scala.html)
+ + [neophite guide to scala](https://danielwestheide.com/scala/neophytes.html)
 + [scala online resources](https://docs.scala-lang.org/learn.html)
 + [scala_tutorial](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
 + [tour of scala]( https://docs.scala-lang.org/tour/tour-of-scala.html)
@@ -56,6 +57,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg1OTE5MTUsMTc3OTEzNjQ0LDE5OD
-U2ODExNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbMzA0ODYwMDE1LDE3NzkxMzY0NCwxOTg1Nj
+gxMTcsLTgxODQ1MTg5MF19
 -->

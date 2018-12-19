@@ -69,13 +69,14 @@ by Underscore
 + [glossary](https://docs.scala-lang.org/glossary/index.html)
 + cheatsheets
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
+	- [cheatsheet from the forum](https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9)
 
 ## IDE
 
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMD
-c2Mzc4NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5
-MF19
+eyJoaXN0b3J5IjpbMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNz
+YyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODEx
+NywtODE4NDUxODkwXX0=
 -->

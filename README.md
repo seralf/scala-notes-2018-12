@@ -3,9 +3,10 @@
 # scala notes
 
 ## [scala site](https://www.scala-lang.org/)
-
-### examples
 + *SEE*: example snippets in the homepage 
+
+
+## examples
 + [creative scala](https://www.creativescala.org/creative-scala.html)
 + [extractors](https://www.scala-lang.org/old/node/112)
 
@@ -48,5 +49,5 @@
 	+ [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbMjA5MzI4MzkwNywtODE4NDUxODkwXX0=
 -->

@@ -1,5 +1,8 @@
 *.class
 *.log
+.settings/
+.cache-main
+.worksheet/
 
 bin/
 target/

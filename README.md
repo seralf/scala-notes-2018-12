@@ -1,6 +1,6 @@
 
 
-# [scala notes](https://seralf.github.io/scala-notes-2018-12/)
+# scala notes
 
 ## [scala site](https://www.scala-lang.org/)
 + *SEE*: example snippets in the homepage 
@@ -100,9 +100,9 @@ by Underscore
 + [create a new application](https://www.playframework.com/documentation/2.6.x/NewApplication)
 + [anatomy of a play! application](https://www.playframework.com/documentation/2.6.x/Anatomy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDgwNzE4LC05MjI4NDIzNCwtODYxMj
-EzNzY0LC0yMDM5ODI4NDgwLC00NjExMjUzNDUsMTIyMjMwMTA3
-NywxNTQ2MTM1OTk3LDExNTA5OTk1OTcsLTM3NjIwMDM5NSwtMT
-A3NjM3ODY1MCwxNzc5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTkyMjg0MjM0LC05NzQ4MDcxOCwtOTIyOD
+QyMzQsLTg2MTIxMzc2NCwtMjAzOTgyODQ4MCwtNDYxMTI1MzQ1
+LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNz
+YyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODEx
+NywtODE4NDUxODkwXX0=
 -->

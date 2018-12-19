@@ -4,6 +4,8 @@
 
 ## [scala site](https://www.scala-lang.org/)
 + *SEE*: example snippets in the homepage 
++ [scala JS](https://www.scala-js.org/)
++ [# Compiling Scala Faster with GraalVM]
 
 
 ## examples, exercises
@@ -79,8 +81,8 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMj
-IyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAw
-Mzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLT
-gxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbLTcwMzQwOTM3MSwtMjAzOTgyODQ4MCwtND
+YxMTI1MzQ1LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5
+NTk3LC0zNzYyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LD
+E5ODU2ODExNywtODE4NDUxODkwXX0=
 -->

@@ -6,7 +6,7 @@
 + *SEE*: example snippets in the homepage 
 + [scala JS](https://www.scala-js.org/)
 + [getting started with scala and sbt on the command line](https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html)
-+ [tour of scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
+
 
 
 
@@ -93,8 +93,8 @@ by Underscore
 + [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
 + [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyOTU3ODI4LC0yMDM5ODI4NDgwLC00Nj
-ExMjUzNDUsMTIyMjMwMTA3NywxNTQ2MTM1OTk3LDExNTA5OTk1
-OTcsLTM3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNzc5MTM2NDQsMT
-k4NTY4MTE3LC04MTg0NTE4OTBdfQ==
+eyJoaXN0b3J5IjpbLTg2MTIxMzc2NCwtMjAzOTgyODQ4MCwtND
+YxMTI1MzQ1LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5
+NTk3LC0zNzYyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LD
+E5ODU2ODExNywtODE4NDUxODkwXX0=
 -->

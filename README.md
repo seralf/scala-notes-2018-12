@@ -12,6 +12,7 @@
 + [creative scala](https://www.creativescala.org/creative-scala.html)
 + [# S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 + [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
++ SEE: https://stackoverflow.com/questions/37259206/play-ws-api-throttling-request-rates
 
 	
 ## interactive REPL
@@ -77,7 +78,8 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1ND
-YxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4
-NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbMTA1OTQ3Mzc3NywtNDYxMTI1MzQ1LDEyMj
+IzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNzYyMDAz
+OTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODExNywtOD
+E4NDUxODkwXX0=
 -->

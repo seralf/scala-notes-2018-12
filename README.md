@@ -34,14 +34,15 @@
 
 ## books
 
-+ [essential scala](https://underscore.io/books/essential-scala/)
++ [Essential Scala](https://underscore.io/books/essential-scala/)
+by Underscore
 
 + [Scala by example](https://www.scala-lang.org/docu/files/ScalaByExample.pdf)
 2014, by Martin Odersky
 
 + [Scala & Design Patterns (Exploring Language Expressivity)](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 
-+ [creative scala](https://www.creativescala.org/creative-scala.epub)
++ [Creative Scala](https://www.creativescala.org/creative-scala.epub)
 
 + [free programming books - scala](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#scala)
 + [free programming books - play!](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#play-scala)
@@ -60,6 +61,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTYyMzAxNywxNzc5MTM2NDQsMTk4NT
-Y4MTE3LC04MTg0NTE4OTBdfQ==
+eyJoaXN0b3J5IjpbNTM3NjA2NjU4LDE3NzkxMzY0NCwxOTg1Nj
+gxMTcsLTgxODQ1MTg5MF19
 -->

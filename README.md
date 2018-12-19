@@ -11,6 +11,7 @@
 + [creative scala](https://www.creativescala.org/creative-scala.html)
 + [extractors](https://www.scala-lang.org/old/node/112)
 + [# S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
++ [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
 
 	
 ## interactive REPL
@@ -54,5 +55,6 @@
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTY4MTE3LC04MTg0NTE4OTBdfQ==
+eyJoaXN0b3J5IjpbMTc3OTEzNjQ0LDE5ODU2ODExNywtODE4ND
+UxODkwXX0=
 -->

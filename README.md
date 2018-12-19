@@ -55,12 +55,14 @@ by Underscore
 	2008, by Martin Odersky, Lex Spoon, and Bill Venners
 
 + [functional programming for mortals](https://leanpub.com/fpmortals)
-+ [atomic scala ]()
+
 
 ### commercial books
 
 + [Red Book](https://www.manning.com/books/functional-programming-in-scala)
 + [Scala for the Impatient, 2nd edition](https://horstmann.com/scala/)
++ [Atomic Scala](https://gumroad.com/l/AtomicScala)
+	- [FREE chapters ](https://info.lightbend.com/ebook-register-atomic-scala.html)
 
 
 ## glossary, cheatsheets
@@ -73,7 +75,7 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0MzQwODcsLTM3NjIwMDM5NSwtMT
-A3NjM3ODY1MCwxNzc5MTM2NDQsMTk4NTY4MTE3LC04MTg0NTE4
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMD
+c2Mzc4NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5
+MF19
 -->

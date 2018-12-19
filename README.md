@@ -92,9 +92,16 @@ by Underscore
 
 + [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
 + [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
+
+* * *
+
+## [play!](https://www.playframework.com/)
+
++ [create a new application](https://www.playframework.com/documentation/2.6.x/NewApplication)
++ [anatomy of a play! application](https://www.playframework.com/documentation/2.6.x/Anatomy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTIxMzc2NCwtMjAzOTgyODQ4MCwtND
-YxMTI1MzQ1LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5
-NTk3LC0zNzYyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LD
-E5ODU2ODExNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTkyMjg0MjM0LC04NjEyMTM3NjQsLTIwMz
+k4Mjg0ODAsLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1NDYxMzU5
+OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4NjUwLD
+E3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
 -->

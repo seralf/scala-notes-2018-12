@@ -16,11 +16,20 @@
 + [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
 + SEE: https://stackoverflow.com/questions/37259206/play-ws-api-throttling-request-rates
 
+
 	
 ## interactive REPL
 
 + [scastie](https://scastie.scala-lang.org/)
 + [scala fiddle](https://scalafiddle.io/)
+
+
+## IDE
+
++ http://scala-ide.org/
++ https://www.jetbrains.com/idea/
+
+
 
 ## tutorials, courses
 + [twitter scala school](http://twitter.github.io/scala_school/)
@@ -76,13 +85,14 @@ by Underscore
 	- [scala cheat - dev daily](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf)
 	- [cheatsheet from the forum](https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9)
 
-## IDE
 
-+ http://scala-ide.org/
-+ https://www.jetbrains.com/idea/
+## readings
+
++ [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
++ [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTY3NjU1MCwtMjAzOTgyODQ4MCwtND
-YxMTI1MzQ1LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5
-NTk3LC0zNzYyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LD
-E5ODU2ODExNywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTEwNTM1MjM0NzEsLTIwMzk4Mjg0ODAsLT
+Q2MTEyNTM0NSwxMjIyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5
+OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NC
+wxOTg1NjgxMTcsLTgxODQ1MTg5MF19
 -->

@@ -2,6 +2,7 @@
 
 # [scala notes](https://seralf.github.io/scala-notes-2018-12/)
 
+
 ## [scala site](https://www.scala-lang.org/)
 + *SEE*: example snippets in the homepage 
 + [scala JS](https://www.scala-js.org/)
@@ -17,7 +18,7 @@
 + [# S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 + [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
 + SEE: https://stackoverflow.com/questions/37259206/play-ws-api-throttling-request-rates
-
++ SEE [ex-filter-docs](./drafts/ex-filter-docs.md)
 
 	
 ## interactive REPL
@@ -100,9 +101,9 @@ by Underscore
 + [create a new application](https://www.playframework.com/documentation/2.6.x/NewApplication)
 + [anatomy of a play! application](https://www.playframework.com/documentation/2.6.x/Anatomy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDgwNzE4LC05MjI4NDIzNCwtOTc0OD
-A3MTgsLTg2MTIxMzc2NCwtMjAzOTgyODQ4MCwtNDYxMTI1MzQ1
-LDEyMjIzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNz
-YyMDAzOTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODEx
-NywtODE4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTE5MjQyODUzNzYsLTk3NDgwNzE4LC05Mj
+I4NDIzNCwtODYxMjEzNzY0LC0yMDM5ODI4NDgwLC00NjExMjUz
+NDUsMTIyMjMwMTA3NywxNTQ2MTM1OTk3LDExNTA5OTk1OTcsLT
+M3NjIwMDM5NSwtMTA3NjM3ODY1MCwxNzc5MTM2NDQsMTk4NTY4
+MTE3LC04MTg0NTE4OTBdfQ==
 -->

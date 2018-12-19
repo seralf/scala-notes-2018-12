@@ -71,6 +71,7 @@ by Underscore
 + [glossary](https://docs.scala-lang.org/glossary/index.html)
 + cheatsheets
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
+	- [scala cheat - dev daily](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf)
 	- [cheatsheet from the forum](https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9)
 
 ## IDE
@@ -78,8 +79,8 @@ by Underscore
 + http://scala-ide.org/
 + https://www.jetbrains.com/idea/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTQ3Mzc3NywtNDYxMTI1MzQ1LDEyMj
-IzMDEwNzcsMTU0NjEzNTk5NywxMTUwOTk5NTk3LC0zNzYyMDAz
-OTUsLTEwNzYzNzg2NTAsMTc3OTEzNjQ0LDE5ODU2ODExNywtOD
-E4NDUxODkwXX0=
+eyJoaXN0b3J5IjpbLTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMj
+IyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAw
+Mzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLT
+gxODQ1MTg5MF19
 -->

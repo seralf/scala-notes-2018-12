@@ -100,6 +100,16 @@ by Underscore
 
 + [create a new application](https://www.playframework.com/documentation/2.6.x/NewApplication)
 + [anatomy of a play! application](https://www.playframework.com/documentation/2.6.x/Anatomy)
+
+
+----
+
+## extra 
+
++ [graalVM](https://www.graalvm.org/)
++ [git8 templates](https://github.com/foundweekends/giter8/wiki/giter8-templates)
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MjQyODUzNzYsLTk3NDgwNzE4LC05Mj
 I4NDIzNCwtODYxMjEzNzY0LC0yMDM5ODI4NDgwLC00NjExMjUz

@@ -3,9 +3,11 @@ package it.seralf.examples.spark
 import org.apache.spark.sql.SparkSession
 import java.nio.file.Paths
 import org.apache.spark.sql.SaveMode
+import org.apache.spark.sql.hive.thriftserver.HiveThriftServer2
 
 object ExTate extends App {
 
+  // CHECK val hadoop = Paths.get("C:/hadoop").normalize().toAbsolutePath()
   val hadoop = Paths.get("./hadoop_home/").normalize().toAbsolutePath()
   System.setProperty("hadoop.home.dir", hadoop.toString())
 
@@ -17,7 +19,7 @@ object ExTate extends App {
     .appName("SparkSessionTateCollectionExample")
     // CHECK: .config("spark.sql.warehouse.dir", warehouseLocation)
     .config("spark.master", "local")
-    .config("hive.exec.scratchdir","C:/Users/Al.Serafini/repos/seralf/scala_course/spark-examples/target/hive")
+    // CHECK .config("hive.exec.scratchdir", "C:/tmp/hive")
     .enableHiveSupport()
     .getOrCreate()
 
@@ -49,10 +51,6 @@ object ExTate extends App {
   import spark.implicits._
 
   // TODO: DATASET
-  //  implicit val my_econder = org.apache.spark.sql.Encoders.kryo[Artist]
-  //  val ds = spark.createDataset(data_src.getLines().toStream)
-  //  val artistsDF = ds.toDF().cache()
-  //  CHECK: Exception in thread "main" org.apache.spark.sql.AnalysisException: cannot resolve '`name`' given input columns: [value]; line 4 pos 11;
 
   val artistsDF = spark.sparkContext
     .parallelize(data_src.getLines().toStream)
@@ -82,19 +80,11 @@ object ExTate extends App {
   //  val sql = new HiveContext(spark.sparkContext)
   val sql_ctx = spark.sqlContext.newSession()
 
-  // try cache
-  //  sql_ctx.cacheTable("tate_artists")
-
-  //  val artistsDS: Dataset[Artist] = artistsDF.as[Artist]
-
-  //  sql_ctx.sparkSession.createDataset(data)
-
-  // CHECK  HiveThriftServer2.startWithContext(sql_ctx)
-
-  //  CHECK
+  // CHECK
+  HiveThriftServer2.startWithContext(sql_ctx)
 
   //  Thread.sleep(120000)
-  //  spark.stop()s
+  //  spark.stop()
 
 }
 

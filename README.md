@@ -19,7 +19,9 @@
 + [tetrix in scala](http://eed3si9n.com/tetrix-in-scala/)
 + SEE: https://stackoverflow.com/questions/37259206/play-ws-api-throttling-request-rates
 + SEE [ex-filter-docs](./drafts/ex-filter-docs.md)
-
++ SEE [traits](https://booksites.artima.com/programming_in_scala/examples/)
+	- [traits - chp 12](https://booksites.artima.com/programming_in_scala_2ed/examples/html/ch12.html)
+	NOTA: non è male l'esempio della "rana filosofica" :-)
 	
 ## interactive REPL
 

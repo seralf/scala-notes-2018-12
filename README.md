@@ -108,7 +108,7 @@ by Underscore
 
 + [IMDB](https://www.imdb.com/interfaces/)
 	- [download](https://datasets.imdbws.com/)
-	
+	+ SEE: "Essential Scala" par. `3.1.6.3`as a base
 
 ----
 
@@ -120,7 +120,7 @@ by Underscore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIzNDQzMjcsNzM2MDEwNiwtMTkyND
+eyJoaXN0b3J5IjpbLTE1MDMzMzU5MDcsNzM2MDEwNiwtMTkyND
 I4NTM3NiwtOTc0ODA3MTgsLTkyMjg0MjM0LC04NjEyMTM3NjQs
 LTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1ND
 YxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4

@@ -102,6 +102,14 @@ by Underscore
 + [anatomy of a play! application](https://www.playframework.com/documentation/2.6.x/Anatomy)
 
 
+## datasets
+
++ [tate collection](https://github.com/tategallery/collection)
+
++ [IMDB](https://www.imdb.com/interfaces/)
+	- [download](https://datasets.imdbws.com/)
+	
+
 ----
 
 ## extra 
@@ -112,9 +120,9 @@ by Underscore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDEwNiwtMTkyNDI4NTM3NiwtOTc0OD
-A3MTgsLTkyMjg0MjM0LC04NjEyMTM3NjQsLTIwMzk4Mjg0ODAs
-LTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MD
-k5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0
-NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbLTExNzIzNDQzMjcsNzM2MDEwNiwtMTkyND
+I4NTM3NiwtOTc0ODA3MTgsLTkyMjg0MjM0LC04NjEyMTM3NjQs
+LTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1ND
+YxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4
+NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
 -->

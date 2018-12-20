@@ -106,6 +106,7 @@ by Underscore
 
 ## extra 
 
++ [sbt](https://www.scala-sbt.org/1.0/docs/sbt-new-and-Templates.html)
 + [graalVM](https://www.graalvm.org/)
 + [git8 templates](https://github.com/foundweekends/giter8/wiki/giter8-templates)
 

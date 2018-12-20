@@ -6,4 +6,7 @@ object ExVariables extends App {
 
   println(test)
 
+  // ERROR: does not compile!!
+  // var test2 = _
+
 }

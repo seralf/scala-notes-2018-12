@@ -5,11 +5,15 @@ import scala.concurrent.Future
 
 import scala.concurrent.ExecutionContext.Implicits.global._
 
-object MainTateArtists extends App {
+object MainTateArtists01 extends App {
 
   val artists_url = "https://raw.githubusercontent.com/tategallery/collection/master/artist_data.csv"
 
   val src = Source.fromURL(artists_url)("UTF-8")
+
+  val content = src.getLines().toStream
+
+  src.close()
 
   // SEE
   //  val content: Stream[String] = src.getLines().toStream
@@ -20,6 +24,14 @@ object MainTateArtists extends App {
   //        println(i + ":" + line)
   //    }
   //  src.close()
+
+}
+
+object MainTateArtists02 extends App {
+
+  val artists_url = "https://raw.githubusercontent.com/tategallery/collection/master/artist_data.csv"
+
+  val src = Source.fromURL(artists_url)("UTF-8")
 
   using(src) { input =>
     input.getLines().toStream

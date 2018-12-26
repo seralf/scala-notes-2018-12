@@ -5,9 +5,9 @@ import scala.collection.immutable.Map
 import scala.concurrent.Future
 import scala.util.Random
 
-object ExTate12 extends App {
+object ExTateIdeaDataTable extends App {
 
-  import example12._
+  import ideaDataTable._
 
   val artists_url = "https://raw.githubusercontent.com/tategallery/collection/master/artist_data.csv"
 
@@ -25,7 +25,7 @@ object ExTate12 extends App {
 
 }
 
-package example12 {
+package ideaDataTable {
 
   import scala.io.Source
   import scala.collection.mutable.LinkedHashMap

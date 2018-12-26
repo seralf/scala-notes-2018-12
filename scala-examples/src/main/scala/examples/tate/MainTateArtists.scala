@@ -11,7 +11,19 @@ object MainTateArtists01 extends App {
 
   val src = Source.fromURL(artists_url)("UTF-8")
 
-  val content = src.getLines().toStream
+  val lines = src.getLines().toList
+
+  lines
+    .map { line => line.reverse }
+    .foreach { item =>
+
+      Thread.sleep(200)
+      println(item)
+
+    }
+
+  val content = lines.mkString
+  println(content.reverse)
 
   src.close()
 

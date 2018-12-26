@@ -65,18 +65,21 @@ object ExFunctions extends App {
   for (i <- 3 to 7)
     println(s"fattoriale di $i è ${factorialTail(i)}")
 
-  def factorial(n: BigInt): BigInt = {
+  // @tailrec
+  def factorial(n: Long): Long = {
     if (n <= 1) 1
     else
       n * factorial(n - 1)
   }
 
   def factorialTail(i: Int): Long = {
+
     @tailrec
     def fact(i: Int, temp: Int): Long = {
       if (i <= 1) temp
       else fact(i - 1, i * temp)
     }
+
     fact(i, 1)
   }
 

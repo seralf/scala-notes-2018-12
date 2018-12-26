@@ -12,9 +12,8 @@ object ExDataTateArtist extends App {
 
   src.close()
 
-  
-  def action(){
-    
+  def action() {
+
   }
-  
+
 }

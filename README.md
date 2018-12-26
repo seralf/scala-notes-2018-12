@@ -22,6 +22,14 @@
 + SEE [traits](https://booksites.artima.com/programming_in_scala/examples/)
 	- [traits - chp 12](https://booksites.artima.com/programming_in_scala_2ed/examples/html/ch12.html)
 	NOTA: non è male l'esempio della "rana filosofica" :-)
++ [scala self-type](https://docs.scala-lang.org/tour/self-types.html)
++ cake pattern
+	- [self type vs cake pattern](https://coderwall.com/p/t_rapw/cake-pattern-in-scala-self-type-annotations-explicitly-typed-self-references-explained)
+	- [traits DI vs cake pattern](http://allaboutscala.com/tutorials/chapter-5-traits/scala-traits-depedency-injection-avoid-cake-pattern/)
+	- [cake antipattern](https://kubuszok.com/2018/cake-antipattern/)
+	- [real world DI](http://jonasboner.com/real-world-scala-dependency-injection-di/)
+	
+
 	
 ## interactive REPL
 
@@ -122,10 +130,9 @@ by Underscore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzMTQ4NzgsLTE1MDMzMzU5MDcsNz
-M2MDEwNiwtMTkyNDI4NTM3NiwtOTc0ODA3MTgsLTkyMjg0MjM0
-LC04NjEyMTM3NjQsLTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMj
-IyMzAxMDc3LDE1NDYxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAw
-Mzk1LC0xMDc2Mzc4NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLT
-gxODQ1MTg5MF19
+eyJoaXN0b3J5IjpbLTE1MDMzMzU5MDcsNzM2MDEwNiwtMTkyND
+I4NTM3NiwtOTc0ODA3MTgsLTkyMjg0MjM0LC04NjEyMTM3NjQs
+LTIwMzk4Mjg0ODAsLTQ2MTEyNTM0NSwxMjIyMzAxMDc3LDE1ND
+YxMzU5OTcsMTE1MDk5OTU5NywtMzc2MjAwMzk1LC0xMDc2Mzc4
+NjUwLDE3NzkxMzY0NCwxOTg1NjgxMTcsLTgxODQ1MTg5MF19
 -->

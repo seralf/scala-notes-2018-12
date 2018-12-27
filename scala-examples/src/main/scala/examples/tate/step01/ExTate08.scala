@@ -34,8 +34,7 @@ package example08 {
 
   class CSV(url: String, val D: Char, val S: Char, encoding: String) {
 
-    val RGX_SPLIT = s"""${S}(?=([^${D}]*"[^${D}]*${D})*[^${D}]*$$)"""
-    //    val RGX_SPLIT = "," // NOTE: this has some issue!
+    val RGX_SPLIT = ","
 
     def parse(): Seq[Map[String, Any]] = {
 
@@ -58,7 +57,7 @@ package example08 {
       }.toStream
 
     private def parseAsStream(): Seq[String] = ???
-      
+
     private def parseAsList(): Seq[String] = {
 
       val src = Source.fromURL(url)(encoding)

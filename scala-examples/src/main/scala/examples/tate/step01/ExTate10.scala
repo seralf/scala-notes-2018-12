@@ -34,7 +34,7 @@ package example10 {
 
   class CSVParser(url: String, val D: Char, val S: Char, encoding: String) {
 
-    val RGX_SPLIT = s"""${S}(?=([^${D}]*"[^${D}]*${D})*[^${D}]*$$)"""
+    val RGX_SPLIT = ","
 
     def parse(): Seq[Map[String, Any]] = {
 

@@ -31,8 +31,7 @@ package example07 {
 
   class CSV(url: String, val D: Char, val S: Char, encoding: String) {
 
-    val RGX_SPLIT = s"""${S}(?=([^${D}]*"[^${D}]*${D})*[^${D}]*$$)"""
-    //    val RGX_SPLIT = "," // NOTE: this has some issue!
+    val RGX_SPLIT = ","
 
     def parseLines(): Seq[Seq[String]] = this.parseAsList()
       .map { line =>

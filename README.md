@@ -93,10 +93,11 @@ by Underscore
 
 ## glossary, cheatsheets
 + [glossary](https://docs.scala-lang.org/glossary/index.html)
-+ cheatsheets
++ scala cheatsheets
 	- [scalacheat](https://docs.scala-lang.org/cheatsheets/index.html)
 	- [scala cheat - dev daily](https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf)
 	- [cheatsheet from the forum](https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9)
++ [java vs scala cheatsheet](https://www.rea-group.com/blog/java-to-scala-cheatsheet/)
 
 
 ## readings

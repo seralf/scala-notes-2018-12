@@ -55,7 +55,10 @@
 + [tour of scala]( https://docs.scala-lang.org/tour/tour-of-scala.html)
 + [scala for java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 + [scala for perl programmers](https://github.com/garu/scala-for-perl5-programmers)
-
++ cognitiveclass.ai
+  - [scala 101](https://cognitiveclass.ai/courses/introduction-to-scala/)
+  - [spark overview for scala analytics](https://cognitiveclass.ai/courses/spark-overview-scala-analytics/)
+  - [data science with scala](https://cognitiveclass.ai/courses/data-science-scala/)
 
 
 ## books
